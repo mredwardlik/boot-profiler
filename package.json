@@ -4,7 +4,7 @@
   "description": "Node library for running project within configs",
   "author": {
     "name": "Eduard Lik",
-    "email": "feft99@gmail.com"
+    "email": "mredwardlik@gmail.com"
   },
   "keywords": [
     "node",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feftio/boot-profiler.git"
+    "url": "git+https://github.com/mredwardlik/boot-profiler.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -34,5 +34,9 @@
   "devDependencies": {
     "eslint": "^8.23.1",
     "eslint-config-standard": "^17.0.0"
+  },
+  "homepage": "https://github.com/mredwardlik/boot-profiler#readme",
+  "bugs": {
+    "url": "https://github.com/mredwardlik/boot-profiler/issues"
   }
 }
